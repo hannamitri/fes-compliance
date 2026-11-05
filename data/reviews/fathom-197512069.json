@@ -1,0 +1,341 @@
+{
+  "id": "fathom-197512069",
+  "source": "fathom",
+  "title": "Jack × Zack Bowden",
+  "closer": {
+    "name": "Jack Canning",
+    "email": "jcanning@fesinstitute.com"
+  },
+  "prospect": {
+    "name": "Zack Bowden"
+  },
+  "date": "2026-10-28T00:00:00Z",
+  "durationSec": 3112,
+  "url": "https://fathom.video/calls/880456537",
+  "outcome": "enrolled",
+  "verdict": "serious",
+  "summary": "Jack enrolled Zack Bowden (wife Anna present) on a $10K loan at 23% APR after presenting a 3-6 week time-to-job, $60-80k remote starting salary and 'job covers tuition' as the normal outcome, then coached the lender income field ('put in 60K regardless'), told him the disclosure did not need reading, and walked him click-by-click through accepting the loan agreement. The 14-day cancellation window was never mentioned and the Job Guarantee omitted the documented-search requirement, though tuition, monthly estimate, finance charge and 'not a magic pill' caveats were stated.",
+  "coverage": "Full 51:52 transcript (302 segments) read end to end; single conversation with prospect Zack Bowden and his wife Anna. Fathom labels both Zack and Anna as 'Zoom user', and at least one Jack segment (36:49 tuition explanation) is mislabelled 'Zoom user'; attribution was inferred from content. Transcript starts mid-greeting so any recording-consent statement before 00:00 is not visible. Several long gaps (40:00-42:00, 45:00-47:00, 48:30-50:00) are screen-share silence while the application was completed; anything typed on screen is not in the transcript.",
+  "findings": [
+    {
+      "rules": [
+        "C2",
+        "P2",
+        "P3",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 1403,
+      "link": "https://fathom.video/calls/880456537?timestamp=1403",
+      "quote": "After finishing, a complete beginner usually lands their first role within about three to six weeks. That first role is a junior position. Juniors are usually starting around 60 to 80k a year mark, and the roles are completely remote",
+      "note": "States a 3-6 week time-to-job, a $60-80k starting salary and fully remote roles as the normal outcome, which are the exact claims the FTC audit lists for immediate removal."
+    },
+    {
+      "rules": [
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 1403,
+      "link": "https://fathom.video/calls/880456537?timestamp=1403",
+      "quote": "From junior, our students typically get promoted to a senior position within, like, six to nine months. Seniors are in that six-figure range.",
+      "note": "Implies rapid junior-to-senior progression and six-figure pay as typical with no substantiation, hedged only by 'typically'."
+    },
+    {
+      "rules": [
+        "P5",
+        "P14",
+        "C4"
+      ],
+      "severity": "high",
+      "timestamp": 2209,
+      "link": "https://fathom.video/calls/880456537?timestamp=2209",
+      "quote": "you either keep making those small monthly payments up to you or do what most students do is use a few paychecks to pay it off sooner. Until you land the job, job covers tuition.",
+      "note": "Tells the prospect the job will cover the tuition and that most students pay the loan off with a few paychecks, which is the prohibited 'pay the loan off with your first few paychecks' framing."
+    },
+    {
+      "rules": [
+        "P5"
+      ],
+      "severity": "high",
+      "timestamp": 2526,
+      "link": "https://fathom.video/calls/880456537?timestamp=2526",
+      "quote": "And then for yearly income, I'm not sure what you earn, Jack, but put in 60K regardless. We get the best terms for that.",
+      "note": "Coaches the applicant on what income figure to enter in the lender application ('put in 60K regardless'), and also directs the loan amount and 60-month term selection."
+    },
+    {
+      "rules": [
+        "C6",
+        "P11"
+      ],
+      "severity": "high",
+      "timestamp": 2526,
+      "link": "https://fathom.video/calls/880456537?timestamp=2526",
+      "quote": "Now, this is an example disclosure. So. You don't really need to worry about it, basically. Now, you can read it if you want, but it's going to have no relevance to the loan that we're about to generate.",
+      "note": "Tells the applicant the lender disclosure does not need to be read, then at 43:19 walks him through 'click I agree and acknowledge' and 'I consent' without pausing."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5"
+      ],
+      "severity": "high",
+      "timestamp": 2599,
+      "link": "https://fathom.video/calls/880456537?timestamp=2599",
+      "quote": "284, a 23% interest rate, but the beauty of this is that you actually get to dodge the interest once you pay this thing off in eight months. So that's 23%, that's only on the monthly.",
+      "note": "Misrepresents the loan terms: interest accrues from day one on a 23% APR loan and is not 'dodged' by early payoff, and 'only on the monthly' is not a meaningful description of APR."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5"
+      ],
+      "severity": "medium",
+      "timestamp": 2642,
+      "link": "https://fathom.video/calls/880456537?timestamp=2642",
+      "quote": "But when you pay this whole thing off, it'll be the $10K minus the monthly payments you've already made.",
+      "note": "Inaccurate payoff math: monthly payments include interest, so the payoff balance is not principal minus payments made; this understates the cost of the loan."
+    },
+    {
+      "rules": [
+        "C6",
+        "P11",
+        "P10"
+      ],
+      "severity": "high",
+      "timestamp": 2661,
+      "link": "https://fathom.video/calls/880456537?timestamp=2661",
+      "quote": "Click yet sign in, go to application, you can X this for now, and then go accept loan agreement, and then continue to sign. Pick student borrower when you're good to go.",
+      "note": "Walks the applicant click-by-click through accepting and signing the loan agreement while talking over him about onboarding, with no invitation to read the agreement first."
+    },
+    {
+      "rules": [
+        "P5",
+        "P10"
+      ],
+      "severity": "medium",
+      "timestamp": 2661,
+      "link": "https://fathom.video/calls/880456537?timestamp=2661",
+      "quote": "this finance charge, you see that's 7k, now that's only if you end up paying this for the full 60 month term. Now if you end up paying this for 60 months, Zack, I'm going to personally fly to Florida",
+      "note": "Points at the $7k finance charge but immediately dismisses it as 'unprecedented', implying the loan will certainly be paid off early from job income."
+    },
+    {
+      "rules": [
+        "C3",
+        "P4"
+      ],
+      "severity": "medium",
+      "timestamp": 2000,
+      "link": "https://fathom.video/calls/880456537?timestamp=2000",
+      "quote": "you've got to apply to 30 developer positions a week. Now, what that means, it's not you manually doing it. We have agent tools in place where you can do all that in a sitting",
+      "note": "Job Guarantee explained without the documented-job-search requirement or how a refund interacts with the loan balance, and the 30-applications rule is trivialised as something tools do 'in a sitting'."
+    },
+    {
+      "rules": [
+        "C6",
+        "P4",
+        "P2"
+      ],
+      "severity": "low",
+      "timestamp": 2000,
+      "link": "https://fathom.video/calls/880456537?timestamp=2000",
+      "quote": "they're entitled to a full refund of the tuition, plus $1,000 on top. That job, if you don't land a role, is minimum $60,000 a year position.",
+      "note": "Promises a $1,000 bonus on top of the refund and frames the guarantee around a minimum $60k role; both need to match the written Job Guarantee agreement exactly."
+    },
+    {
+      "rules": [
+        "P7",
+        "P14",
+        "P8"
+      ],
+      "severity": "medium",
+      "timestamp": 1616,
+      "link": "https://fathom.video/calls/880456537?timestamp=1616",
+      "quote": "So we're going to place you in two separate paid internships with AI tech companies that we partner with. Yes, you're going to get paid.",
+      "note": "Presents two paid internships with partner companies as certain for every student, with no mention of selection, eligibility or capacity; repeated at 46:58 ('we're going to be paying you for the internship')."
+    },
+    {
+      "rules": [
+        "P7",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 1545,
+      "link": "https://fathom.video/calls/880456537?timestamp=1545",
+      "quote": "from week two, we're going to show you how to build and sell projects for businesses. Anywhere from 500 bucks. To 1500 bucks each. Number two, you're earning extra income from week two.",
+      "note": "Earn-while-you-learn income of $500-1,500 per project from week two is presented as expected rather than possible."
+    },
+    {
+      "rules": [
+        "P2",
+        "P6",
+        "P7"
+      ],
+      "severity": "medium",
+      "timestamp": 2842,
+      "link": "https://fathom.video/calls/880456537?timestamp=2842",
+      "quote": "Nothing for 45 days. And by then, I think it's like 85% of students. 85% of students have made enough to cover the first month by then.",
+      "note": "Quotes an unsubstantiated '85% of students' earnings statistic to reassure the prospect about affordability of the first payment."
+    },
+    {
+      "rules": [
+        "P3",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2167,
+      "link": "https://fathom.video/calls/880456537?timestamp=2167",
+      "quote": "As long as you can give me five to 10 hours a week, that's the key here. I know that we can help you reach your goals. I know that you'll be successful here, Jax.",
+      "note": "Tells the prospect he will be successful if he puts in 5-10 hours a week, which implies a guaranteed outcome despite the earlier 'no crystal ball' caveat."
+    },
+    {
+      "rules": [
+        "P11",
+        "C7"
+      ],
+      "severity": "medium",
+      "timestamp": 944,
+      "link": "https://fathom.video/calls/880456537?timestamp=944",
+      "quote": "you could define what's been going on in your situation as comfort, but another way of defining it would potentially be settling.",
+      "note": "After the prospect disclosed hardship paying rent and groceries (09:20), the closer frames his caution as 'settling' and later elicits 'time to grow a set of balls', pressure that exploits financial distress and fear of change."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "low",
+      "timestamp": 2128,
+      "link": "https://fathom.video/calls/880456537?timestamp=2128",
+      "quote": "every single time that someone's unsuccessful, it's not down to the business model. It always comes down to the person. It always comes down to their commitment levels.",
+      "note": "Attributes every unsuccessful outcome to the student, pre-empting any future complaint and overstating certainty of the program's results."
+    },
+    {
+      "rules": [
+        "C1",
+        "P10"
+      ],
+      "severity": "medium",
+      "timestamp": 3008,
+      "link": "https://fathom.video/calls/880456537?timestamp=3008",
+      "quote": "Link one is like our job guarantee agreement, which is basically just like, you know, we signed that bad boy.",
+      "note": "At no point in the call is the 14-day cancellation window or refund policy mentioned, and the guarantee agreement is signed in about 15 seconds with no prompt to read it."
+    },
+    {
+      "rules": [
+        "P5"
+      ],
+      "severity": "low",
+      "timestamp": 2342,
+      "link": "https://fathom.video/calls/880456537?timestamp=2342",
+      "quote": "What's a ballpark on your credit score, by the way? [redacted] That's good. That's good. you'll get approved.",
+      "note": "Assures the applicant he will be approved before any lender decision; the prospect's credit score range was also stated aloud on the recording."
+    },
+    {
+      "rules": [
+        "P12"
+      ],
+      "severity": "medium",
+      "timestamp": 2661,
+      "link": "https://fathom.video/calls/880456537?timestamp=2661",
+      "quote": "Yes, I'll go to your emails. Hope I don't see any illicit material here now. Okay, we're good. Click yet sign in, go to application",
+      "note": "The prospect's email inbox and lender portal, including income and loan details, were screen-shared on a recorded call; no SSN or DOB was read aloud in the transcript."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 1743,
+      "link": "https://fathom.video/calls/880456537?timestamp=1743",
+      "quote": "you'll have to go back with these guys around the clock. They're across a few different time zones. You can schedule an unlimited number of one-to-ones with these senior software engineers.",
+      "note": "'Around the clock' and 'unlimited' one-to-ones may overstate support hours and access; describe exactly as delivered."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 1448,
+      "link": "https://fathom.video/calls/880456537?timestamp=1448",
+      "quote": "this whole program, it takes three months. Like you're your own boss. It's self-paced.",
+      "note": "Describes a self-paced program as a fixed three-month duration (and later 'if you finish the bootcamp in a month'), which is inconsistent and may understate real completion time."
+    },
+    {
+      "rules": [
+        "P5"
+      ],
+      "severity": "low",
+      "timestamp": 2212,
+      "link": "https://fathom.video/calls/880456537?timestamp=2212",
+      "quote": "then after that, then it's around 250 a month, maybe 20 bucks more, maybe 20 bucks less.",
+      "note": "The pre-application monthly estimate of $230-270 was exceeded by the actual $284 payment, and the gap was not acknowledged when the real terms appeared."
+    },
+    {
+      "rules": [
+        "P9"
+      ],
+      "severity": "low",
+      "timestamp": 1881,
+      "link": "https://fathom.video/calls/880456537?timestamp=1881",
+      "quote": "I think 13% of resumes are actually viewed by human eyes. Which means that 87% of them, they get blocked by AI.",
+      "note": "Unsubstantiated AI/labour-market statistic presented as fact."
+    }
+  ],
+  "compliant": [
+    {
+      "area": "Total tuition disclosed",
+      "note": "Stated the full bootcamp including the Job Guarantee is $10K before starting the application.",
+      "timestamp": 2209,
+      "link": "https://fathom.video/calls/880456537?timestamp=2209"
+    },
+    {
+      "area": "Monthly payment before application",
+      "note": "Gave an estimated monthly payment (~$250, plus or minus $20) and the 45-day no-payment start before opening the lender application.",
+      "timestamp": 2212,
+      "link": "https://fathom.video/calls/880456537?timestamp=2212"
+    },
+    {
+      "area": "Earn-while-you-learn hedged",
+      "note": "Explicitly said 'I don't want to give you the idea that the earn while you learn will cover the full tuition... usually it doesn't.'",
+      "timestamp": 2209,
+      "link": "https://fathom.video/calls/880456537?timestamp=2209"
+    },
+    {
+      "area": "Results not guaranteed",
+      "note": "Said 'this isn't a magic pill... You still have to do the work' and 'there's no crystal ball of certainty here'.",
+      "timestamp": 2040,
+      "link": "https://fathom.video/calls/880456537?timestamp=2040"
+    },
+    {
+      "area": "Not everyone succeeds",
+      "note": "Acknowledged 'it's not like everybody's successful'.",
+      "timestamp": 2128,
+      "link": "https://fathom.video/calls/880456537?timestamp=2128"
+    },
+    {
+      "area": "Job Guarantee core requirements",
+      "note": "Stated bootcamp completion, 30 applications per week, and the 12-month / 6-month-of-search window when describing the guarantee.",
+      "timestamp": 2000,
+      "link": "https://fathom.video/calls/880456537?timestamp=2000"
+    },
+    {
+      "area": "Mentorship described as a team",
+      "note": "Described support as a team of 14 senior engineers across time zones, not a single 24/7 mentor.",
+      "timestamp": 1743,
+      "link": "https://fathom.video/calls/880456537?timestamp=1743"
+    },
+    {
+      "area": "Finance charge and APR read aloud",
+      "note": "Pointed at the $7k finance charge and read the 23% rate and $284 monthly payment aloud on screen.",
+      "timestamp": 2661,
+      "link": "https://fathom.video/calls/880456537?timestamp=2661"
+    },
+    {
+      "area": "Opt-out offered",
+      "note": "Told the applicant he could opt out of weekly lender texts.",
+      "timestamp": 2599,
+      "link": "https://fathom.video/calls/880456537?timestamp=2599"
+    }
+  ],
+  "reviewedAt": "2026-11-05T07:49:12Z",
+  "reviewer": "Claude (Fathom MCP)"
+}

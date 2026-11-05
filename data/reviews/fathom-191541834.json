@@ -1,0 +1,194 @@
+{
+  "id": "fathom-191541834",
+  "source": "fathom",
+  "title": "Zen × Jeff",
+  "closer": { "name": "Zen Heaton", "email": "zenheaton@fesinstitute.com" },
+  "prospect": { "name": "Jeff" },
+  "date": "2026-10-09T00:00:00Z",
+  "durationSec": 2877,
+  "url": "https://fathom.video/calls/856592044",
+  "outcome": "enrolled",
+  "verdict": "serious",
+  "summary": "Jeff, a 51-year-old warehouse supervisor with existing student debt, enrolled on a Climb loan at about $262 a month. The call was not high-pressure, but the Job Guarantee was explained without any of its requirements, the closer told him what income figure to enter on the lender application, and both the lender disclosure and the loan agreement were accepted without being read.",
+  "coverage": "Entire 332-line transcript reviewed. The recording ends mid-sentence at 47:57 during autopay setup, before the guarantee agreement was signed and the onboarding call was booked, so the close of the call cannot be verified. The prospect is hard of hearing and asked the closer to repeat himself at least eight times.",
+  "findings": [
+    {
+      "rules": ["C3", "P4"],
+      "severity": "high",
+      "timestamp": 1503,
+      "link": "https://fathom.video/calls/856592044?timestamp=1503",
+      "quote": "For whatever reason, you're not able to land a position at a minimum of 60K per year, what we will then do is give you a full refund of the tuition, plus $1,000. The only caveat, though, you have to actually do the work.",
+      "note": "The guarantee is presented with 'the only caveat' being effort. No mention of 30 applications a week, the six-month duration, documenting the search, completing the bootcamp, or the 12-month window."
+    },
+    {
+      "rules": ["C4", "P5"],
+      "severity": "high",
+      "timestamp": 2286,
+      "link": "https://fathom.video/calls/856592044?timestamp=2286",
+      "quote": "Because you make over $60,000 a year, it doesn't change. So you can just put $60,000 for yearly income.",
+      "note": "Closer instructs the applicant what to enter as income on the Climb application and asserts how the lender underwrites. Jeff's actual income is roughly $70k to $75k."
+    },
+    {
+      "rules": ["C4", "P5", "P10"],
+      "severity": "high",
+      "timestamp": 2736,
+      "link": "https://fathom.video/calls/856592044?timestamp=2736",
+      "quote": "Do you see how it says finance charge? Don't freak out about that. You can offset that because you're going to be able to pay this off in a faster way. I just have to tell you from a compliance perspective.",
+      "note": "The one moment the Truth in Lending disclosure was on screen, the student was told not to worry about it. APR and total finance charge were never read out."
+    },
+    {
+      "rules": ["C6", "P11"],
+      "severity": "high",
+      "timestamp": 2459,
+      "link": "https://fathom.video/calls/856592044?timestamp=2459",
+      "quote": "Hit the box that says I agree. Leave electronically on. Hit submit.",
+      "note": "Student directed to tick 'I agree' on the lender disclosure and submit with no pause to read it."
+    },
+    {
+      "rules": ["C6", "P11"],
+      "severity": "high",
+      "timestamp": 2709,
+      "link": "https://fathom.video/calls/856592044?timestamp=2709",
+      "quote": "Click agree? Yep.",
+      "note": "The loan agreement was accepted while the closer made small talk about camping. That exchange is the entire review of the agreement."
+    },
+    {
+      "rules": ["C2", "P3"],
+      "severity": "high",
+      "timestamp": 942,
+      "link": "https://fathom.video/calls/856592044?timestamp=942",
+      "quote": "August, September, October. Well, we could be getting prepped, getting to the last month of education, getting ready for a job by November.",
+      "note": "On an October 9 call this implies job-ready in about seven weeks, which contradicts the three-month program described a minute later."
+    },
+    {
+      "rules": ["C2", "P2", "P3", "P14"],
+      "severity": "high",
+      "timestamp": 959,
+      "link": "https://fathom.video/calls/856592044?timestamp=959",
+      "quote": "Three to six weeks after this period, we then see our complete beginners coming in and landing the first junior developer role, 60 to 80k per year, four to six hours per day, 100% remote. Six to eight months, senior position, around 150k.",
+      "note": "A full timeline with salaries attached, hedged only with 'on average' and 'if applied correctly'. Matches two phrases on the audit's remove-immediately list."
+    },
+    {
+      "rules": ["C2", "P3", "P5"],
+      "severity": "medium",
+      "timestamp": 1850,
+      "link": "https://fathom.video/calls/856592044?timestamp=1850",
+      "quote": "Based off the data, students start landing jobs between monthly payment three and monthly payment four.",
+      "note": "Links the job timeline to loan repayments, implying the loan is covered by employment income soon after it starts."
+    },
+    {
+      "rules": ["C3", "P4"],
+      "severity": "medium",
+      "timestamp": 1850,
+      "link": "https://fathom.video/calls/856592044?timestamp=1850",
+      "quote": "Full bootcamp and guaranteed job for 10K.",
+      "note": "The guarantee is a conditional refund, not a guaranteed job."
+    },
+    {
+      "rules": ["C4", "P5"],
+      "severity": "medium",
+      "timestamp": 2877,
+      "link": "https://fathom.video/calls/856592044?timestamp=2877",
+      "quote": "Hit set up autopay. This will serve two: one, where we send the money for the paid internships, and two, where in six weeks the monthly payment would come out of.",
+      "note": "The Climb autopay link is for loan repayment only. FES does not pay internship income through the lender's bank connection."
+    },
+    {
+      "rules": ["C7", "P11"],
+      "severity": "medium",
+      "timestamp": 771,
+      "link": "https://fathom.video/calls/856592044?timestamp=771",
+      "quote": "Time out, time out, Jeff. Can't be both, man. Excuse, excuse, excuse.",
+      "note": "Response to the student saying he still has bills to pay. Shuts down a financial concern instead of addressing it; he is adding a $10k loan on top of $50k in student debt."
+    },
+    {
+      "rules": ["P11"],
+      "severity": "medium",
+      "timestamp": 1767,
+      "link": "https://fathom.video/calls/856592044?timestamp=1767",
+      "quote": "You were kind of talking fast.",
+      "note": "Jeff said at 04:54 that he is hard of hearing and had misunderstood the hours commitment. He then completed a loan application on his phone to rapid click-by-click instructions. Weak informed-consent position."
+    },
+    {
+      "rules": ["P2", "P11"],
+      "severity": "medium",
+      "timestamp": 710,
+      "link": "https://fathom.video/calls/856592044?timestamp=710",
+      "quote": "You can have this life. It's not far away. It's a few months of grit.",
+      "note": "Aspirational framing that presents the outcome as near-certain."
+    },
+    {
+      "rules": ["P7"],
+      "severity": "medium",
+      "timestamp": 1120,
+      "link": "https://fathom.video/calls/856592044?timestamp=1120",
+      "quote": "$500 to around $1,000 a website.",
+      "note": "Earn-while-you-learn figure presented as expected. Other closers quote $250–$1,000 and $500–$1,500; no consistent, substantiated number."
+    },
+    {
+      "rules": ["P7"],
+      "severity": "low",
+      "timestamp": 1191,
+      "link": "https://fathom.video/calls/856592044?timestamp=1191",
+      "quote": "An AI skincare company called Skinstrict.",
+      "note": "Internship partner named differently by each closer (Jax: 'AI tech companies', Karuna: 'SkinCentric'). Verify against what is documented."
+    },
+    {
+      "rules": ["P7"],
+      "severity": "low",
+      "timestamp": 1787,
+      "link": "https://fathom.video/calls/856592044?timestamp=1787",
+      "quote": "One to two hours per day, in the learning phase for the first three months.",
+      "note": "Internship structure described differently from the phased structure Karuna presents."
+    },
+    {
+      "rules": ["C1", "P10"],
+      "severity": "medium",
+      "timestamp": null,
+      "link": null,
+      "quote": "(not said)",
+      "note": "The 14-day cancellation window and the cancellation contact were never mentioned before or during signing."
+    },
+    {
+      "rules": ["C7"],
+      "severity": "low",
+      "timestamp": 2579,
+      "link": "https://fathom.video/calls/856592044?timestamp=2579",
+      "quote": "Tomorrow evening after work.",
+      "note": "Onboarding call promised but the recording ends before it was booked. Worth confirming it happened."
+    }
+  ],
+  "compliant": [
+    {
+      "area": "Monthly payment stated before the application",
+      "note": "Quoted $220 to $270 a month before the Climb application; the approved figure of $262 matched.",
+      "timestamp": 1850,
+      "link": "https://fathom.video/calls/856592044?timestamp=1850"
+    },
+    {
+      "area": "Mentorship described accurately",
+      "note": "Chat support, group coaching and unlimited bookable one-on-ones seven days a week. No 'one mentor 24/7' or 'daily call' claim.",
+      "timestamp": 1415,
+      "link": "https://fathom.video/calls/856592044?timestamp=1415"
+    },
+    {
+      "area": "Certificate not oversold",
+      "note": "Described modestly, no 'industry recognised' language.",
+      "timestamp": 1250,
+      "link": "https://fathom.video/calls/856592044?timestamp=1250"
+    },
+    {
+      "area": "Effort disclaimer",
+      "note": "Explicitly said this is not 'magically click some buttons and get rich'.",
+      "timestamp": 1503,
+      "link": "https://fathom.video/calls/856592044?timestamp=1503"
+    },
+    {
+      "area": "No personal data read aloud",
+      "note": "Jeff drove the application on his own device, so no SSN or date of birth was spoken on the recording.",
+      "timestamp": null,
+      "link": null
+    }
+  ],
+  "reviewedAt": "2026-11-05T00:00:00Z",
+  "reviewer": "Claude (Fathom MCP)"
+}

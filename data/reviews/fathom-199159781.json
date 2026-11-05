@@ -1,0 +1,324 @@
+{
+  "id": "fathom-199159781",
+  "source": "fathom",
+  "title": "Jack × Caryn",
+  "closer": {
+    "name": "Jack Canning",
+    "email": "jcanning@fesinstitute.com"
+  },
+  "prospect": {
+    "name": "Caryn"
+  },
+  "date": "2026-11-03T00:00:00Z",
+  "durationSec": 4097,
+  "url": "https://fathom.video/calls/887368734",
+  "outcome": "unknown",
+  "verdict": "serious",
+  "summary": "Jack pitched Caryn, a substitute teacher finishing a degree, with the standard outcome script (job in 3-6 weeks, $60-80K remote junior, six-figure senior in 6-9 months, two paid internships, internship income covers the loan and the job covers tuition) and then spent the last twenty minutes pushing past her request to talk to her husband and start on the 23rd, including a Lamborghini analogy to her cost concern and a likely wrong statement that there is no credit pull for 45 days. He did get several things right (guarantee conditions minus documentation, total tuition and monthly figure before the application, the earn-while-you-learn hedge, telling her she does not have to say yes), but the prohibited income and loan-payoff claims plus the override of her think-about-it request make this serious.",
+  "coverage": "Full transcript reviewed, 365 speaker segments from 0:00 to 1:08:17. The recording ends while Caryn is still trying to share her screen for the Climb Credit application, so the application walkthrough, any PII handling, agreement review and signing, and whether she enrolled could not be reviewed; a Monday follow-up and an onboarding call were discussed. Speaker labels are scrambled in several places (some of Jack's questions appear under Caryn's name, e.g. 05:04, 15:12, 26:23, 38:14, 50:53), so attribution was judged from content; two connection drops (35:36 and 1:05-1:07) lose a few seconds. The setter is referred to as Harry; Caryn's last name is not said.",
+  "findings": [
+    {
+      "rules": [
+        "C2",
+        "P3",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 1648,
+      "link": "https://fathom.video/calls/887368734?timestamp=1648",
+      "quote": "After finishing, a complete beginner usually lands their first role within three to six weeks. And that first role is always a junior position.",
+      "note": "A 3-6 week time-to-job is presented as the usual outcome; this is a P14 claim to remove immediately and no employment timeframe is contractually committed."
+    },
+    {
+      "rules": [
+        "P2",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 1648,
+      "link": "https://fathom.video/calls/887368734?timestamp=1648",
+      "quote": "Juniors usually start around like 60 to 80K a year and the roles are completely remote.",
+      "note": "A specific starting-salary band and fully remote work are presented as the typical graduate outcome with no substantiation or qualification."
+    },
+    {
+      "rules": [
+        "P2",
+        "C2"
+      ],
+      "severity": "high",
+      "timestamp": 1648,
+      "link": "https://fathom.video/calls/887368734?timestamp=1648",
+      "quote": "from junior, our students are going to transition to a senior position within about six to nine months. And those seniors are going to be the guys in that six figure range.",
+      "note": "Rapid progression to a six-figure senior role within 6-9 months is stated as what will happen, implying exceptional outcomes are typical."
+    },
+    {
+      "rules": [
+        "P7",
+        "P2",
+        "P3"
+      ],
+      "severity": "medium",
+      "timestamp": 1781,
+      "link": "https://fathom.video/calls/887368734?timestamp=1781",
+      "quote": "we're going to teach you from week two how to build and sell projects for businesses. They're from $500 to $1,500 each. Now this does three things.",
+      "note": "Earn-while-you-learn income of $500-$1,500 per project from week two is presented as expected, and the same passage says 'our students get hired over people with four-year degrees' as a general fact."
+    },
+    {
+      "rules": [
+        "P7",
+        "P14"
+      ],
+      "severity": "medium",
+      "timestamp": 1836,
+      "link": "https://fathom.video/calls/887368734?timestamp=1836",
+      "quote": "in this bootcamp, you get placed in two paid internships with AI tech companies that we partner with. Obviously, you're going to get paid.",
+      "note": "Every student is told they will receive two paid internships with no mention of selection, eligibility, capacity or timing, which is the 'everyone gets the internship' claim."
+    },
+    {
+      "rules": [
+        "C5",
+        "P8"
+      ],
+      "severity": "medium",
+      "timestamp": 1910,
+      "link": "https://fathom.video/calls/887368734?timestamp=1910",
+      "quote": "all 17 of our mentors. They're in this channel. You'll get a response within 15 minutes, 24-7.",
+      "note": "A guaranteed 15-minute response around the clock is a specific support promise that must match what is actually delivered."
+    },
+    {
+      "rules": [
+        "C3",
+        "P4"
+      ],
+      "severity": "medium",
+      "timestamp": 2177,
+      "link": "https://fathom.video/calls/887368734?timestamp=2177",
+      "quote": "To qualify, all you've got to do is complete the bootcamp. You've got to apply to 30 positions a week, but we automate all that. We'll show you how to do that. It takes like one sitting.",
+      "note": "The documented-job-search requirement is never mentioned, the 30-per-week condition is minimized as automated and quick, and how a refund interacts with the Climb loan, interest and fees is not explained."
+    },
+    {
+      "rules": [
+        "C6",
+        "P4"
+      ],
+      "severity": "low",
+      "timestamp": 2177,
+      "link": "https://fathom.video/calls/887368734?timestamp=2177",
+      "quote": "they get a full refund of the tuition plus $1,000 on top.",
+      "note": "The extra $1,000 should be verified against the written Job Guarantee; if it is not documented it is a promised undocumented benefit."
+    },
+    {
+      "rules": [
+        "P10",
+        "P5"
+      ],
+      "severity": "medium",
+      "timestamp": 2346,
+      "link": "https://fathom.video/calls/887368734?timestamp=2346",
+      "quote": "So you put no money down for the first month and a half. After that, the monthly payments, they're around 250 bucks, maybe 20 bucks more, maybe 20 bucks less.",
+      "note": "The monthly figure is quoted without the loan term, interest rate, total repayment amount or a statement that the numbers depend on lender approval and may change."
+    },
+    {
+      "rules": [
+        "C1",
+        "P10"
+      ],
+      "severity": "medium",
+      "timestamp": 2346,
+      "link": "https://fathom.video/calls/887368734?timestamp=2346",
+      "quote": "the full bootcamp, including the job guarantee is just 10k. Now, obviously, nobody pays for that upfront. So we can relax.",
+      "note": "Tuition and financing are explained in full but the 14-day cancellation window and the written refund and cancellation policy are never mentioned anywhere in the recording."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2346,
+      "link": "https://fathom.video/calls/887368734?timestamp=2346",
+      "quote": "Once we land the job, you either keep making those small monthly payments or do what most students do. What is use a few paychecks to pay it off sooner.",
+      "note": "'Pay the loan off with your first few paychecks' is a P14 claim to remove immediately, and 'once we land the job' implies FES places the student."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2439,
+      "link": "https://fathom.video/calls/887368734?timestamp=2439",
+      "quote": "the money you earn from the internship and the earn while you learn will cover the monthlies until you land the job. Job covers tuition.",
+      "note": "Program income covering the loan payments and the job covering tuition is stated as fact, i.e. the loan pays for itself, and it contradicts the 'not typical' hedge given a minute earlier."
+    },
+    {
+      "rules": [
+        "C2",
+        "P3"
+      ],
+      "severity": "medium",
+      "timestamp": 2557,
+      "link": "https://fathom.video/calls/887368734?timestamp=2557",
+      "quote": "So you could, in theory, have a job by then.",
+      "note": "Even with the 'in theory' hedge, this ties employment to a specific date (her May 4 graduation), implying a job timeframe."
+    },
+    {
+      "rules": [
+        "P3",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2880,
+      "link": "https://fathom.video/calls/887368734?timestamp=2880",
+      "quote": "This can get you to where you want to go. And I know it can. I know you'll be successful here.",
+      "note": "Personal assurance of success stated as certainty to a prospect who had just described stress over mortgage and bills."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 1286,
+      "link": "https://fathom.video/calls/887368734?timestamp=1286",
+      "quote": "given that it's been a few years, we've been allowing this self-doubt to get in the way. What do you think that self-doubt in the past has cost us?",
+      "note": "After the prospect disclosed an abusive marriage, a mother with Alzheimer's and money stress, the closer builds urgency on self-doubt and later on what she would tell her daughter (24:33), which exploits personal distress to drive a decision."
+    },
+    {
+      "rules": [
+        "P11",
+        "C6"
+      ],
+      "severity": "high",
+      "timestamp": 3000,
+      "link": "https://fathom.video/calls/887368734?timestamp=3000",
+      "quote": "I'm sure like Jason sounds like a legend, but this is being speaking candidly, speaking candidly, Caryn, at the end of the day, whose career is it we're talking about here?",
+      "note": "The prospect clearly asked to talk to her husband and proposed a Monday follow-up; the closer repeatedly reframes that as a question of who controls her life (50:20-51:25) rather than accepting the request to think it over."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3115,
+      "link": "https://fathom.video/calls/887368734?timestamp=3115",
+      "quote": "do you think that's a problem? Or do you think that's a symptom of the problem? Because if you were working a tech job right now, you wouldn't necessarily have a crazy planner right now, would you?",
+      "note": "Her stated reason for not deciding today (a fully booked schedule) is reframed as a personal failing to push a same-call commitment."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3388,
+      "link": "https://fathom.video/calls/887368734?timestamp=3388",
+      "quote": "why don't we just get you started? I guess now? And we can officially put the start date on the 23rd. Like you're not going to be having to make a payment for another four weeks after that anyway.",
+      "note": "After she asked to start on the 23rd and speak to her husband first, the closer pushes signing the loan today using the payment deferral as the reason to commit now."
+    },
+    {
+      "rules": [
+        "C7",
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3451,
+      "link": "https://fathom.video/calls/887368734?timestamp=3451",
+      "quote": "Cause if I offered you a Lamborghini for 10,000, you'd be like, well, that's very cheap. But if I offered you a dinner for 10,000, you'd be like, wow, that's very expensive.",
+      "note": "Her 'that's a lot of money right now' objection is answered with an analogy instead of being addressed, dismissing a financial-hardship concern."
+    },
+    {
+      "rules": [
+        "P5"
+      ],
+      "severity": "low",
+      "timestamp": 3508,
+      "link": "https://fathom.video/calls/887368734?timestamp=3508",
+      "quote": "They're called Climb Credit. They're like a multi-million dollar organization. We've got a pretty big deal with them. It's like for student loans. And basically, you just run through that. It's what? 99% of the people.",
+      "note": "'99% of the people' is an unsubstantiated statistic and 'a pretty big deal with them' suggests a special arrangement with the lender."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5"
+      ],
+      "severity": "medium",
+      "timestamp": 3638,
+      "link": "https://fathom.video/calls/887368734?timestamp=3638",
+      "quote": "Again, your credit won't actually get, like, there won't be a pull for 45 days. And would you rather have 650 credit or like 640 credit and this skill set at your disposal?",
+      "note": "A lender application normally involves a credit check at application time, so telling her there is no pull for 45 days likely misstates loan terms, and her credit concern is brushed aside."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3660,
+      "link": "https://fathom.video/calls/887368734?timestamp=3660",
+      "quote": "What's the point of having good credit if you're not utilizing it for the things that you really want, you know?",
+      "note": "Encourages taking on debt as a matter of principle in response to a nervous prospect, which pressures rather than informs."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 1688,
+      "link": "https://fathom.video/calls/887368734?timestamp=1688",
+      "quote": "this bootcamp is three months at like one to two hours a day. So like five to 10 hours a week. And obviously it's self-paced, which means you're the boss.",
+      "note": "A self-paced program is framed as a fixed three-month duration, and later the guarantee example assumes finishing in a month, even though she said she can only commit about two hours a day."
+    }
+  ],
+  "compliant": [
+    {
+      "area": "Job Guarantee conditions",
+      "note": "Stated bootcamp completion, 30 applications per week and the 12-month window as conditions, and said it is not a magic pill and the student has to do the work.",
+      "timestamp": 2177,
+      "link": "https://fathom.video/calls/887368734?timestamp=2177"
+    },
+    {
+      "area": "No certainty",
+      "note": "Said there is no crystal ball of certainty and the future cannot be predicted before asking for commitment.",
+      "timestamp": 2218,
+      "link": "https://fathom.video/calls/887368734?timestamp=2218"
+    },
+    {
+      "area": "Price before application",
+      "note": "Gave the $10k total tuition, the 45-day no-payment period and an approximate $250 monthly payment before any lender application.",
+      "timestamp": 2346,
+      "link": "https://fathom.video/calls/887368734?timestamp=2346"
+    },
+    {
+      "area": "Earn-while-you-learn hedge",
+      "note": "Explicitly said he did not want to give the idea that earn-while-you-learn covers full tuition and that it is not typical.",
+      "timestamp": 2383,
+      "link": "https://fathom.video/calls/887368734?timestamp=2383"
+    },
+    {
+      "area": "Mentorship as a team",
+      "note": "Described support as a channel of 17 mentors with live coaching calls, not a single dedicated mentor.",
+      "timestamp": 1910,
+      "link": "https://fathom.video/calls/887368734?timestamp=1910"
+    },
+    {
+      "area": "Respecting commitments",
+      "note": "Said he was not suggesting dropping anything and that only a couple of hours a week would be fair given her schedule.",
+      "timestamp": 3195,
+      "link": "https://fathom.video/calls/887368734?timestamp=3195"
+    },
+    {
+      "area": "No forced yes",
+      "note": "Told the prospect she does not have to say yes to anything or do anything right now before the application.",
+      "timestamp": 3697,
+      "link": "https://fathom.video/calls/887368734?timestamp=3697"
+    },
+    {
+      "area": "No PII on recording",
+      "note": "No SSN, DOB, card number or address was read aloud in the portion recorded; the recording ended before the application was opened.",
+      "timestamp": null,
+      "link": null
+    }
+  ],
+  "reviewedAt": "2026-11-05T07:49:20Z",
+  "reviewer": "Claude (Fathom MCP)"
+}

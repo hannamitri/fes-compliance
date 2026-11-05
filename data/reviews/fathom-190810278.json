@@ -1,0 +1,304 @@
+{
+  "id": "fathom-190810278",
+  "source": "fathom",
+  "title": "Karuna × Janet",
+  "closer": {
+    "name": "Karuna Darvesh",
+    "email": "karuna@fesinstitute.com"
+  },
+  "prospect": {
+    "name": "Janet"
+  },
+  "date": "2026-10-08T00:00:00Z",
+  "durationSec": 3599,
+  "url": "https://fathom.video/calls/853798415",
+  "outcome": "not-enrolled",
+  "verdict": "serious",
+  "summary": "Karuna ran a discovery and pitch call with Janet, a 53-year-old optician working two jobs who said she is in financial distress; no enrollment or lender application happened and a follow-up was booked for Saturday. The call contains prohibited expected-outcome claims (job in 3-8 weeks, $60-90K remote starting salary, senior at $120-160K eight months later) and the 'pay off the loan with your first paychecks / three websites cover your payments' framing, though the guarantee requirements, tuition and monthly estimate were disclosed and no pressure was applied at the end.",
+  "coverage": "Reviewed the full Fathom transcript (355 segments, 00:12 to 59:59, one conversation). Speaker labels are scrambled in places: several Karuna lines are attributed to Janet (e.g. 00:42, 53:25-54:00) and vice versa, so attribution was inferred from content. Audio is garbled around 52:46-53:25 (the 'guaranteed job of minimum six' line). No enrollment agreement or loan application was opened on this call, so the 14-day cancellation disclosure and agreement-reading rules were not applicable yet; they should be checked on the Saturday follow-up. No recording-consent statement appears in the transcript (a Zoom notice may have been shown but is not captured).",
+  "findings": [
+    {
+      "rules": [
+        "P3",
+        "P2",
+        "C2",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2106,
+      "link": "https://fathom.video/calls/853798415?timestamp=2106",
+      "quote": "anywhere between three to eight weeks after the bootcamp to get the first job as a frontend developer. Now your starting salary is going to be between 60 to 90,000 a year, and that's a fully remote job.",
+      "note": "A specific time-to-job window, a starting salary band, a fully remote role and 4-6 hour workdays are presented as what the prospect should expect, with only a thin 'on average' hedge."
+    },
+    {
+      "rules": [
+        "P2"
+      ],
+      "severity": "high",
+      "timestamp": 2106,
+      "link": "https://fathom.video/calls/853798415?timestamp=2106",
+      "quote": "eight months later, you can start your promotion into a senior position if you'd like to. Typically that's going to take you to around 120 to 160 K per year.",
+      "note": "Implies rapid progression to a senior salary within months of a first job, without any substantiation that FES graduates achieve this."
+    },
+    {
+      "rules": [
+        "P5",
+        "P14",
+        "C4",
+        "P3"
+      ],
+      "severity": "high",
+      "timestamp": 3285,
+      "link": "https://fathom.video/calls/853798415?timestamp=3285",
+      "quote": "three to five of these monthly payments before you get the job... you can take a portion of the first few paychecks from this job. You can use that to pay off the rest of the tuition.",
+      "note": "The loan is framed as something only 3-5 payments are made on before a job pays it off with the first paychecks, which is the prohibited 'loan pays itself' framing tied to an expected time-to-job."
+    },
+    {
+      "rules": [
+        "P5",
+        "C4",
+        "P7"
+      ],
+      "severity": "high",
+      "timestamp": 3285,
+      "link": "https://fathom.video/calls/853798415?timestamp=3285",
+      "quote": "if you want to build and sell maybe three websites, that will give you enough money to cover your monthly payments until you get this job. And then after you get it, you can pay off the rest.",
+      "note": "Earn-while-you-learn freelance income is presented as covering the loan payments, implying the financing takes care of itself regardless of the student's own means."
+    },
+    {
+      "rules": [
+        "C2",
+        "P2",
+        "P3"
+      ],
+      "severity": "high",
+      "timestamp": 1511,
+      "link": "https://fathom.video/calls/853798415?timestamp=1511",
+      "quote": "It will take you, you know, several months to get to 60K and then maybe like a year later, then get to like 100K as well.",
+      "note": "A salary and timeframe path (60K in months, 100K a year later) is stated as what will happen to this prospect rather than as a possible outcome."
+    },
+    {
+      "rules": [
+        "P4",
+        "C3"
+      ],
+      "severity": "medium",
+      "timestamp": 1555,
+      "link": "https://fathom.video/calls/853798415?timestamp=1555",
+      "quote": "if you are someone who comes in, does the work, know, finishes the program and does everything that's required, then yes, you know, there will be that guaranteed job.",
+      "note": "The conditional refund is described as a 'guaranteed job'; the actual refund terms were only explained later at 47:43, and FES does not control hiring."
+    },
+    {
+      "rules": [
+        "P4",
+        "C4"
+      ],
+      "severity": "medium",
+      "timestamp": 3285,
+      "link": "https://fathom.video/calls/853798415?timestamp=3285",
+      "quote": "let's say you get super unlucky and you don't get a job of minimum $60,000. Then you'll get a full refund of everything you pay plus $1,000. And we canceled the loan as well.",
+      "note": "States the loan is cancelled on refund without explaining how the refund interacts with the lender balance, interest or fees, which presents the financed program as effectively risk-free."
+    },
+    {
+      "rules": [
+        "P11",
+        "C7"
+      ],
+      "severity": "medium",
+      "timestamp": 3285,
+      "link": "https://fathom.video/calls/853798415?timestamp=3285",
+      "quote": "Oh, okay. No worries. Well, look, overall, I mean, you're still in a good position. What I recommend you do, what every student does, is a pre-approval on the full tuition.",
+      "note": "The prospect had said she is 'drowning', has no money, a falling credit score (~530) and cannot afford car payments, yet is told she is in a good position and steered straight to a full-tuition loan pre-approval."
+    },
+    {
+      "rules": [
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 1216,
+      "link": "https://fathom.video/calls/853798415?timestamp=1216",
+      "quote": "You can. Obviously, it takes time and, you know, obviously effort to get there. But six figures is very achievable in this space, especially.",
+      "note": "Confirms a six-figure income as 'very achievable' for a complete beginner without any FES outcome data to back it."
+    },
+    {
+      "rules": [
+        "P7",
+        "P14",
+        "P9"
+      ],
+      "severity": "medium",
+      "timestamp": 2366,
+      "link": "https://fathom.video/calls/853798415?timestamp=2366",
+      "quote": "We put every student into a paid internship... you can't get a job in this industry. With our experience, okay, it's impossible to do that.",
+      "note": "Says every student receives a paid internship and makes an absolute claim that getting hired without it is impossible; neither is stated with eligibility, selection or pay details."
+    },
+    {
+      "rules": [
+        "P7",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2261,
+      "link": "https://fathom.video/calls/853798415?timestamp=2261",
+      "quote": "you can sell websites anywhere between $250 to $1,000 per website. So it's very lucrative for our students. And it's a great way to make a little bit of extra income on the side as well.",
+      "note": "Earn-while-you-learn figures are presented as typical and 'very lucrative' without saying how many students actually earn this."
+    },
+    {
+      "rules": [
+        "C5",
+        "P8"
+      ],
+      "severity": "medium",
+      "timestamp": 2420,
+      "link": "https://fathom.video/calls/853798415?timestamp=2420",
+      "quote": "you'll get full access to your coach. So let's say you wanted a one-on-one Zoom call every single day. You probably don't need that. But if you want, you can, okay?",
+      "note": "Promises availability for a one-on-one call every day; students can book calls, but a daily one-on-one is not a committed service level. Mentors from TikTok, Google, Meta and Canva are also name-dropped in a way that implies affiliation."
+    },
+    {
+      "rules": [
+        "P8",
+        "P14"
+      ],
+      "severity": "medium",
+      "timestamp": 2615,
+      "link": "https://fathom.video/calls/853798415?timestamp=2615",
+      "quote": "your frontend simplified Institute of Technology certificate, which is a fully recognized certification in the space just to make your resume strong.",
+      "note": "Claims the FES certificate is a 'fully recognized certification', which is on the list of claims to remove unless industry recognition is documented."
+    },
+    {
+      "rules": [
+        "P6",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2760,
+      "link": "https://fathom.video/calls/853798415?timestamp=2760",
+      "quote": "she's making $65,000 in her very first remote job... So if you follow exactly what they've done, you'll get the same results. That's the most important thing, right?",
+      "note": "Individual graduate stories (Beth, 64, $65K remote; Chris, 42) are presented with an explicit promise that following the same steps yields the same results, implying these outcomes are typical."
+    },
+    {
+      "rules": [
+        "P2",
+        "P4"
+      ],
+      "severity": "medium",
+      "timestamp": 3186,
+      "link": "https://fathom.video/calls/853798415?timestamp=3186",
+      "quote": "your guaranteed job of minimum six [...] We keep working with you no matter how long it takes to get your six-figure job done.",
+      "note": "Describes the guarantee outcome as a 'six-figure job' when the agreement's threshold is a $60K offer; audio is partly garbled here so wording is uncertain."
+    },
+    {
+      "rules": [
+        "P10",
+        "P5"
+      ],
+      "severity": "medium",
+      "timestamp": 3229,
+      "link": "https://fathom.video/calls/853798415?timestamp=3229",
+      "quote": "no one pays this upfront because we work closely with different [finance] partners to make sure you get the cheapest approvals on your monthly payment. Now monthly payments are usually around $200, depending on your term.",
+      "note": "The ~$200 monthly figure is used as the anchor for the whole financing discussion, but the loan term, interest rate, finance charge and total repayment are never mentioned."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 2478,
+      "link": "https://fathom.video/calls/853798415?timestamp=2478",
+      "quote": "typically, we reply back within three to five minutes at any time of the day... schedule a Zoom call with your coach... it's available 24-7, and it's one-on-one as well.",
+      "note": "A 3-5 minute response time at any hour and 24-7 one-on-one call availability are stated as standard; these should match the actual delivered service level."
+    },
+    {
+      "rules": [
+        "C3",
+        "P4"
+      ],
+      "severity": "low",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/853798415?timestamp=2863",
+      "quote": "we're going to ask you to apply to 30 developer jobs every week using the outreach method that we have... you document your job search",
+      "note": "The 30-per-week requirement is explained but not its 6-month duration or the 12-month guarantee window, so the prospect does not hear the full eligibility conditions."
+    },
+    {
+      "rules": [
+        "P10",
+        "P5"
+      ],
+      "severity": "low",
+      "timestamp": 3491,
+      "link": "https://fathom.video/calls/853798415?timestamp=3491",
+      "quote": "So I'll just say worst case, you need a $500. If you somehow get lucky, you might not need that.",
+      "note": "Down payment is framed as a matter of luck; the closer earlier correctly said it depends on the credit check, but the deposit rules should be stated as lender terms, not chance."
+    }
+  ],
+  "compliant": [
+    {
+      "area": "Job Guarantee requirements",
+      "note": "Walked through the refund agreement on screen: complete coursework, portfolio and resume approved before job search, 30 applications per week, documented search, refund of everything paid plus $1,000 if no $60K offer. Duration and 12-month window were missing (see low finding).",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/853798415?timestamp=2863"
+    },
+    {
+      "area": "Total tuition disclosed",
+      "note": "Stated the program price (around $10K) before any lender application or pressure.",
+      "timestamp": 3214,
+      "link": "https://fathom.video/calls/853798415?timestamp=3214"
+    },
+    {
+      "area": "Monthly payment before application",
+      "note": "Gave an estimated monthly payment range ($200-$250) before asking the prospect to apply, hedged with 'usually', 'typically' and 'depending on your term'.",
+      "timestamp": 3229,
+      "link": "https://fathom.video/calls/853798415?timestamp=3229"
+    },
+    {
+      "area": "Expectations about effort",
+      "note": "Said that if the student does not put in the work nothing will happen and that it will not happen overnight.",
+      "timestamp": 1511,
+      "link": "https://fathom.video/calls/853798415?timestamp=1511"
+    },
+    {
+      "area": "Refund mindset",
+      "note": "Told the prospect FES does not want anyone to come in planning on the refund and that the refund is only a structure, not the goal.",
+      "timestamp": 3367,
+      "link": "https://fathom.video/calls/853798415?timestamp=3367"
+    },
+    {
+      "area": "Self-paced described honestly",
+      "note": "Described the program as custom pace with 7-10 hours a week recommended and said progress depends on hours invested.",
+      "timestamp": 2219,
+      "link": "https://fathom.video/calls/853798415?timestamp=2219"
+    },
+    {
+      "area": "Mentor team, not one mentor",
+      "note": "Described mentors as working a rotating 24-7 US shift pattern rather than one mentor available around the clock.",
+      "timestamp": 2420,
+      "link": "https://fathom.video/calls/853798415?timestamp=2420"
+    },
+    {
+      "area": "Coaching calls described accurately",
+      "note": "Live weekly coaching calls described as optional and recorded.",
+      "timestamp": 2478,
+      "link": "https://fathom.video/calls/853798415?timestamp=2478"
+    },
+    {
+      "area": "Honest about down payment uncertainty",
+      "note": "Said the down payment depends on credit and 'we'd have to check and see, to be honest' before giving a rough range.",
+      "timestamp": 3470,
+      "link": "https://fathom.video/calls/853798415?timestamp=3470"
+    },
+    {
+      "area": "No pressure to close on the call",
+      "note": "Prospect was sick and asked to end the call; the closer did not push for an application or signature and scheduled a follow-up for Saturday evening.",
+      "timestamp": 3506,
+      "link": "https://fathom.video/calls/853798415?timestamp=3506"
+    },
+    {
+      "area": "Did not request SSN, DOB or card data",
+      "note": "No Social Security number, date of birth, card number or loan application id was read aloud on the recording.",
+      "timestamp": 3245,
+      "link": "https://fathom.video/calls/853798415?timestamp=3245"
+    }
+  ],
+  "reviewedAt": "2026-11-05T07:47:26Z",
+  "reviewer": "Claude (Fathom MCP)"
+}

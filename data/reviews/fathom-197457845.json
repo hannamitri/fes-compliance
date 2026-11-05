@@ -1,0 +1,364 @@
+{
+  "id": "fathom-197457845",
+  "source": "fathom",
+  "title": "Jack × Ayshia",
+  "closer": {
+    "name": "Jack Canning",
+    "email": "jcanning@fesinstitute.com"
+  },
+  "prospect": {
+    "name": "Ayshia"
+  },
+  "date": "2026-10-28T00:00:00Z",
+  "durationSec": 3827,
+  "url": "https://fathom.video/calls/880298981",
+  "outcome": "not-enrolled",
+  "verdict": "serious",
+  "summary": "Jack gave Ayshia (a 23-year-old earning about $1,500 a month) the full outcome pitch as expected results: a junior role in 3-6 weeks at ~$70K remote, senior and six figures in 6-9 months, two guaranteed paid internships, and a 60-month loan that 'nobody' pays for longer than 7-8 months because the job covers the tuition. When she asked to think it over the weekend and talk to her mother, he spent about 14 minutes arguing that seeking her mother's advice was the antithesis of what she needed to do before finally agreeing to a Monday follow-up; she did not enroll.",
+  "coverage": "Full 1:03:47 transcript reviewed (352 segments, 100 percent read). One conversation, one prospect. Audio dropped from 14:11 to 20:43 (about 6.5 minutes unrecorded) and the prospect rejoined from her phone around 35:20-36:48. Speaker labels are scrambled in several places (e.g. Jack's 'not everyone gets the spot' and his monthly-income question are labelled as Ayshia); attribution above was corrected by context. No recording-consent statement was observed. No application or enrollment agreement was reached, so 14-day cancellation and agreement-reading checks were not applicable.",
+  "findings": [
+    {
+      "rules": [
+        "C2",
+        "P3",
+        "P2",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2027,
+      "link": "https://fathom.video/calls/880298981?timestamp=2027",
+      "quote": "after finishing, a complete beginner usually lands their first role within three to six weeks. That first role is junior position. Juniors, they're starting around that like 70k a year role. And those roles are completely remote",
+      "note": "Presents a 3-6 week time-to-job, a ~$70K starting salary and fully remote roles as the expected outcome; these are P14 claims to remove."
+    },
+    {
+      "rules": [
+        "P2"
+      ],
+      "severity": "high",
+      "timestamp": 2027,
+      "link": "https://fathom.video/calls/880298981?timestamp=2027",
+      "quote": "From junior, our students typically get promoted to a senior position within six, nine months. And the seniors, those are the people who are going to be in that six figure range.",
+      "note": "Implies rapid progression to senior and six-figure pay within 6-9 months without evidence."
+    },
+    {
+      "rules": [
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 1945,
+      "link": "https://fathom.video/calls/880298981?timestamp=1945",
+      "quote": "Let's say 12 months from now, you've done it, right? You're in a position where you have built that skill set. You're making six figures from that skill set",
+      "note": "Future-pacing exercise anchors the prospect on six figures within 12 months, an unsubstantiated salary expectation."
+    },
+    {
+      "rules": [
+        "P7",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2314,
+      "link": "https://fathom.video/calls/880298981?timestamp=2314",
+      "quote": "in this bootcamp, Ayshia, we actually place you in two paid internships with AI tech companies that we partner with. Yes, you're getting paid.",
+      "note": "Two paid internships are promised unconditionally with no mention of selection, eligibility, capacity or timing (P14: 'Everyone gets the internship')."
+    },
+    {
+      "rules": [
+        "P7",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2264,
+      "link": "https://fathom.video/calls/880298981?timestamp=2264",
+      "quote": "you're going to build and sell projects for businesses anywhere from 500 bucks to 1500 bucks each... You're earning extra income from week two.",
+      "note": "Earn-while-you-learn income of $500-$1,500 per project from week two is presented as expected rather than possible."
+    },
+    {
+      "rules": [
+        "C3",
+        "P4"
+      ],
+      "severity": "high",
+      "timestamp": 2545,
+      "link": "https://fathom.video/calls/880298981?timestamp=2545",
+      "quote": "they get a full refund of the tuition plus an additional $1,000 on top... You got to actually complete the bootcamp. You got to apply to a certain number of positions on a weekly basis.",
+      "note": "Job Guarantee described without the specific requirements (30 applications per week for 6 months, documented job search); the $65K floor and $1,000 bonus should be verified against the written guarantee."
+    },
+    {
+      "rules": [
+        "P4",
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3767,
+      "link": "https://fathom.video/calls/880298981?timestamp=3767",
+      "quote": "you think that you're ready to take action? Like, we have a money back guarantee in place as well, if it doesn't work out.",
+      "note": "Uses the guarantee as a risk-free close after the prospect asked to think it over, without restating its conditions or how a refund interacts with the loan."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863",
+      "quote": "Once you land the job, you either keep making those small monthly payments or do what most students do is use a few paychecks to pay it off sooner.",
+      "note": "Tells the prospect most students pay the loan off with a few paychecks, a P14 claim to remove."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5"
+      ],
+      "severity": "high",
+      "timestamp": 2923,
+      "link": "https://fathom.video/calls/880298981?timestamp=2923",
+      "quote": "It's there to cover the monthlies until you land the job. The job covers the tuition.",
+      "note": "States the future job covers the tuition, implying the loan takes care of itself."
+    },
+    {
+      "rules": [
+        "C4",
+        "P5",
+        "P14"
+      ],
+      "severity": "high",
+      "timestamp": 2934,
+      "link": "https://fathom.video/calls/880298981?timestamp=2934",
+      "quote": "it'd be like a 60 month term, but people pay it off after month seven or eight once they get into the new job... So nobody ever pays it off for longer than like seven or eight months.",
+      "note": "Misrepresents the 60-month loan as effectively a 7-8 month obligation and asserts no one pays longer, which is unverifiable and understates the commitment."
+    },
+    {
+      "rules": [
+        "P5",
+        "P10"
+      ],
+      "severity": "medium",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863",
+      "quote": "all of our students use our funding partner. So you put no money down for the first time. A month and a half. And then after that, then the monthly payments are about 250 bucks.",
+      "note": "Monthly payment and deferral quoted without lender terms, interest or finance charge, and without saying the estimate may change after the application."
+    },
+    {
+      "rules": [
+        "P7",
+        "P5"
+      ],
+      "severity": "medium",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863",
+      "quote": "How that income is then meant to be used is you spend part of it on whatever you want, put the other part towards the monthly payments until you land the job.",
+      "note": "Presents earn-while-you-learn and internship income as the expected source of loan payments, tying repayment to uncertain program earnings."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 2791,
+      "link": "https://fathom.video/calls/880298981?timestamp=2791",
+      "quote": "No, no, it's like, like 30% or something.",
+      "note": "Claims only about 30% of applicants are offered a spot, an unsubstantiated selectivity claim used to make the offer feel scarce."
+    },
+    {
+      "rules": [
+        "P3"
+      ],
+      "severity": "medium",
+      "timestamp": 2476,
+      "link": "https://fathom.video/calls/880298981?timestamp=2476",
+      "quote": "You're going to practice the technical questions that way you're going to walk in prepared. You're going to knock it out. You're going to land the role.",
+      "note": "Tells the prospect she is going to land the role, implying career support equals job placement."
+    },
+    {
+      "rules": [
+        "P3",
+        "P2"
+      ],
+      "severity": "medium",
+      "timestamp": 2756,
+      "link": "https://fathom.video/calls/880298981?timestamp=2756",
+      "quote": "as long as you can give me like five to 10 hours a week, I know that we can help you reach your goals... where you can actually earn the more money",
+      "note": "Frames success and higher income as assured given 5-10 hours a week, with no results-not-guaranteed qualifier."
+    },
+    {
+      "rules": [
+        "P11",
+        "C6"
+      ],
+      "severity": "high",
+      "timestamp": 3552,
+      "link": "https://fathom.video/calls/880298981?timestamp=3552",
+      "quote": "going and asking them for like advice on it is almost like, like the anthesis... of what it is you need to do. Because they're going to say, stay at a risk.",
+      "note": "Discourages the prospect from seeking advice from her mother after she twice asked to think it over and consult a trusted person."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3221,
+      "link": "https://fathom.video/calls/880298981?timestamp=3221",
+      "quote": "Do you think putting that decision or portion of it in somebody who hasn't even, doesn't even know what we're doing here, put a decision in them? Their hands is like what is the best idea",
+      "note": "Pushes back on the prospect's stated wish to consult someone she trusts, discouraging independent advice."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3320,
+      "link": "https://fathom.video/calls/880298981?timestamp=3320",
+      "quote": "do you think that analyzing is going to get you to where you want to go, or do you think that action is going to get you to where you want to go?",
+      "note": "Frames the request for time to think as the obstacle to success, pressuring the prospect to decide on the call."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3425,
+      "link": "https://fathom.video/calls/880298981?timestamp=3425",
+      "quote": "What do you think she'll say when you tell her that it's a 10k loan? ... And how is she going to know if it's a good fit?",
+      "note": "Pre-empts and undermines the parent's anticipated objection to the $10K loan instead of respecting the request to consult her."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 1783,
+      "link": "https://fathom.video/calls/880298981?timestamp=1783",
+      "quote": "Ayshia, how much longer do you want to keep missing out on your full potential?... you keep allowing this kind of like jumping around and I guess procrastination to hold you back and control you.",
+      "note": "Shaming language about procrastination used to build urgency before any program or price information."
+    },
+    {
+      "rules": [
+        "P11"
+      ],
+      "severity": "medium",
+      "timestamp": 3656,
+      "link": "https://fathom.video/calls/880298981?timestamp=3656",
+      "quote": "you're not dumb. You know what I mean? Speaking candidly, like, you're You're not a silly person. Like, you know that this would help you out.",
+      "note": "Pressure framing that equates hesitation with being unintelligent, roughly 11 minutes after the prospect asked to think over the weekend."
+    },
+    {
+      "rules": [
+        "P8",
+        "C5"
+      ],
+      "severity": "low",
+      "timestamp": 2367,
+      "link": "https://fathom.video/calls/880298981?timestamp=2367",
+      "quote": "They're across a few different time zones, so they'll always be there when you've got questions... You can book in as many calls as you want for one-to-one support.",
+      "note": "'Always be there' and unlimited two-hour one-to-one bookings overstate support availability; should match actual hours and response times."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 2092,
+      "link": "https://fathom.video/calls/880298981?timestamp=2092",
+      "quote": "this program is three months long... If you put in 40 hours a week, you finish the setting off in four or five weeks.",
+      "note": "Program framed as a fixed three months while also self-paced; duration at 5-10 hours per week may differ materially from three months."
+    },
+    {
+      "rules": [
+        "P9"
+      ],
+      "severity": "low",
+      "timestamp": 2232,
+      "link": "https://fathom.video/calls/880298981?timestamp=2232",
+      "quote": "Don't get on board. You're going to get left behind.",
+      "note": "Absolute AI labour-market framing used to create urgency."
+    },
+    {
+      "rules": [
+        "P8"
+      ],
+      "severity": "low",
+      "timestamp": 2822,
+      "link": "https://fathom.video/calls/880298981?timestamp=2822",
+      "quote": "Well, the two main companies that we're partnered with, they're both like nine figure companies. One's called Skinstrick.",
+      "note": "Prospect assumed partnerships with Apple and Google; the closer pivoted to the real partners but never expressly corrected the assumption."
+    }
+  ],
+  "compliant": [
+    {
+      "area": "Qualification",
+      "note": "Asked directly whether she is sure she wants a software developer job before pitching, and probed her motivation at length.",
+      "timestamp": 283,
+      "link": "https://fathom.video/calls/880298981?timestamp=283"
+    },
+    {
+      "area": "Job Guarantee conditions (partial)",
+      "note": "Stated that the guarantee requires completing the bootcamp and applying to positions weekly, and that 'this isn't a magic pill... you still have to do the work'.",
+      "timestamp": 2545,
+      "link": "https://fathom.video/calls/880298981?timestamp=2545"
+    },
+    {
+      "area": "No-guarantee language",
+      "note": "Said 'there's no crystal ball. You can't predict the future' when asking whether the program fits.",
+      "timestamp": 2545,
+      "link": "https://fathom.video/calls/880298981?timestamp=2545"
+    },
+    {
+      "area": "Mentorship as a team",
+      "note": "Described support as a team of 15 software engineers across time zones, not a single 24/7 mentor.",
+      "timestamp": 2367,
+      "link": "https://fathom.video/calls/880298981?timestamp=2367"
+    },
+    {
+      "area": "Internship expectations",
+      "note": "Clarified the internship is project-based, not full-time, and 'isn't going to be where the six figures come from'.",
+      "timestamp": 2314,
+      "link": "https://fathom.video/calls/880298981?timestamp=2314"
+    },
+    {
+      "area": "Total tuition disclosed",
+      "note": "Stated the full $10K tuition, the ~$250 monthly payment and the 60-month term before any application or signature.",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863"
+    },
+    {
+      "area": "Earn-while-you-learn hedge",
+      "note": "Said he did not want to give the impression earn-while-you-learn covers the full tuition: 'I've seen it happen, but usually it doesn't'.",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863"
+    },
+    {
+      "area": "Hours expectation",
+      "note": "Set the 5-10 hours per week commitment clearly and confirmed the prospect could meet it.",
+      "timestamp": 2092,
+      "link": "https://fathom.video/calls/880298981?timestamp=2092"
+    },
+    {
+      "area": "Partner accuracy",
+      "note": "Named the actual partner company rather than affirming the prospect's Apple/Google assumption.",
+      "timestamp": 2822,
+      "link": "https://fathom.video/calls/880298981?timestamp=2822"
+    },
+    {
+      "area": "No-pressure language",
+      "note": "Repeated 'You don't have to' when the prospect said she should take the risk.",
+      "timestamp": 3650,
+      "link": "https://fathom.video/calls/880298981?timestamp=3650"
+    },
+    {
+      "area": "Accepted request for time",
+      "note": "Ultimately agreed to let her think over the weekend and scheduled a Monday follow-up with no application started.",
+      "timestamp": 3800,
+      "link": "https://fathom.video/calls/880298981?timestamp=3800"
+    },
+    {
+      "area": "Privacy",
+      "note": "No SSN, date of birth, card number or address was read aloud; no lender application was opened on the call.",
+      "timestamp": 2863,
+      "link": "https://fathom.video/calls/880298981?timestamp=2863"
+    }
+  ],
+  "reviewedAt": "2026-11-05T07:47:24Z",
+  "reviewer": "Claude (Fathom MCP)"
+}
